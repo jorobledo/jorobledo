@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José Robledo (@jorobledo)
+- 👋 Hi, I’m José Robledo (@jorobledo), and I'm a physicist.
 - 👀 I’m interested in neutron and X-ray Physics, multivariate data analysis, and Machine Learning.
 - 💞️ I’m looking to collaborate on data analysis methodologies for neutron and X-ray experiments.
 - 📫 Reach me at: jose.robledo@cab.cnea.gov.ar
