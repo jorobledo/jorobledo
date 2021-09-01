@@ -4,9 +4,11 @@
 - 📫 Reach me at: jose.robledo@cab.cnea.gov.ar
 - Check my [personal page](https://jorobledo.github.io/).
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorobledo&show_icons=true&theme=react)](https://github.com/jorobledo/github-readme-stats)
-
-<!---
+<p>
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorobledo&show_icons=true&theme=react)](https://jorobledo.github.io/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorobledo&langs_count=5&theme=react)](https://jorobledo.github.io/)
+</p>
+ <!---
 jorobledo/jorobledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
