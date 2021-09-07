@@ -1,8 +1,8 @@
 
 <div>
-<img align="right" height=100 alt="GIF" src="https://2.bp.blogspot.com/-PzDYSTieEuI/WIjAvblpXxI/AAAAAAAAMUQ/r7IJfFZ3748w2wnSYPC3AEB2BiyADRUfQCLcB/s640/Light_dispersion_conceptual_waves.gif" />
+<img align="right" height=200 alt="GIF" src="https://2.bp.blogspot.com/-PzDYSTieEuI/WIjAvblpXxI/AAAAAAAAMUQ/r7IJfFZ3748w2wnSYPC3AEB2BiyADRUfQCLcB/s640/Light_dispersion_conceptual_waves.gif" />
  
-<img align="right" height=100 alt="GIF" src="https://1.bp.blogspot.com/-r2eUDWXMiGA/WI1lzwaIzII/AAAAAAAAMV0/CkOfyADa23UKHN9epIQywIdcpx80M4aGgCEw/s400/prism-light-dispersion-waves-animation-3.gif" />
+<img align="right" height=200 alt="GIF" src="https://1.bp.blogspot.com/-r2eUDWXMiGA/WI1lzwaIzII/AAAAAAAAMV0/CkOfyADa23UKHN9epIQywIdcpx80M4aGgCEw/s400/prism-light-dispersion-waves-animation-3.gif" />
  
 - 👋 Hi, I’m José Robledo (@jorobledo), and I'm a physicist.
 - 👀 I’m interested in neutron and X-ray Physics, multivariate data analysis, and Machine Learning.
